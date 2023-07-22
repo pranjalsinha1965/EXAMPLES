@@ -8,7 +8,7 @@ public class Rectangle extends Shape{
 
     public Rectangle(double length, double breadth){
         this.length = length;
-        this.breadth = breadth;
+        this.breadth = breadth; 
 
     }
 
